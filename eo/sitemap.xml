@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/eo/authors/</loc>
+    <loc>https://xemuj.github.io/FiduClub/eo/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/"
+                href="https://xemuj.github.io/FiduClub/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
-                href="/eo/authors/"
+                href="https://xemuj.github.io/FiduClub/eo/authors/"
                 />
   </url><url>
-    <loc>/eo/categories/</loc>
+    <loc>https://xemuj.github.io/FiduClub/eo/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://xemuj.github.io/FiduClub/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
-                href="/eo/categories/"
+                href="https://xemuj.github.io/FiduClub/eo/categories/"
                 />
   </url><url>
-    <loc>/eo/</loc>
+    <loc>https://xemuj.github.io/FiduClub/eo/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://xemuj.github.io/FiduClub/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
-                href="/eo/"
+                href="https://xemuj.github.io/FiduClub/eo/"
                 />
   </url><url>
-    <loc>/eo/series/</loc>
+    <loc>https://xemuj.github.io/FiduClub/eo/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/series/"
+                href="https://xemuj.github.io/FiduClub/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
-                href="/eo/series/"
+                href="https://xemuj.github.io/FiduClub/eo/series/"
                 />
   </url><url>
-    <loc>/eo/tags/</loc>
+    <loc>https://xemuj.github.io/FiduClub/eo/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://xemuj.github.io/FiduClub/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="eo"
-                href="/eo/tags/"
+                href="https://xemuj.github.io/FiduClub/eo/tags/"
                 />
   </url>
 </urlset>

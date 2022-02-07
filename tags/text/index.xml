@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>text on FiduClub</title>
-    <link>/tags/text/</link>
+    <link>https://xemuj.github.io/FiduClub/tags/text/</link>
     <description>Recent content in text on FiduClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://fidu.club/&#34;&gt;FiduClub&lt;/a&gt; and &lt;a href=&#34;https://lynx.com.gt/&#34;&gt;LYNX CRYPTO LABS, S.A.&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://xemuj.github.io/FiduClub/tags/text/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Placeholder Text</title>
-      <link>/posts/placeholder-text/</link>
+      <link>https://xemuj.github.io/FiduClub/posts/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/placeholder-text/</guid>
+      <guid>https://xemuj.github.io/FiduClub/posts/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
